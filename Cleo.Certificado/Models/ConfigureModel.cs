@@ -51,7 +51,7 @@ namespace Cleo.Certificado.Models
         new SelectListItem(Fonts.Verdana,Fonts.Verdana),
         new SelectListItem("Roboto","Roboto"),
         new SelectListItem("DejaVu","DejaVu Sans"),
-        new SelectListItem("Arsenica","ArsenicaTrial"),
+        new SelectListItem("Arsenica","Arsenica Trial"),
     };
     }
 }
